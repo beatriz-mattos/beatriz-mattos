@@ -3,8 +3,8 @@
 <p> 🙋🏻‍♀️ Currently looking for a new job. </p>
 <p> 👯 Looking to collaborate on projects. </p>
 <p> 🌱 Learning Elixir in my spare time. </p>
-<p> 🤗 Always open to help. </p>
-<p> 💃🏻 Also I love to sing and dance. I'm a bellydancer and German folk dancer. </p>
+<p> 🤗 Eternally open to help. </p>
+<p> 💃🏻 Also, I love to sing and dance. I'm a bellydancer and German folk dancer. </p>
 
 ## you can reach me at:
 <p align="center">
