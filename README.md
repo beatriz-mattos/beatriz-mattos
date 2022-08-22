@@ -1,5 +1,8 @@
 ### Hi there 👋
-<p> 💻  I'm currently looking for a job. </p>
+<p> 💻  Currently looking for a job. </p>
+<p> 🌱 Learning Elixir. </p>
+<p> 👯 I’m looking to collaborate on Typescript and Node.js projects. </p>
+
 
 ## you can reach me at:
 <p align="center">
