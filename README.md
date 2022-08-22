@@ -4,7 +4,7 @@
 <p> 👯 Looking to collaborate on projects. </p>
 <p> 🌱 Learning Elixir in my spare time. </p>
 <p> 🤗 Eternally open to teach and learn. </p>
-<p> 💃🏻 Also, I love to sing and dance. I'm a bellydancer and German folk dancer. </p>
+<p> 💃🏻 Also, I love to sing and dance. </p>
 
 ## you can reach me at:
 <p align="center">
