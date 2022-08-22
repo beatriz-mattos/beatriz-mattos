@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p> 💻  Currently looking for a job. </p>
 <p> 🌱 Learning Elixir. </p>
-<p> 👯 I’m looking to collaborate on Typescript and Node.js projects. </p>
+<p> 👯 Wants to collaborate on Typescript and Node.js projects. </p>
 
 
 ## you can reach me at:
