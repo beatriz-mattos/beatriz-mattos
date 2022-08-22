@@ -1,8 +1,10 @@
 ### Hi there 👋
-<p> I'm a Software Developer, mainly focused on back-end. </p>
-<p> 💻 Currently looking for a new job. </p>
-<p> 🌱 Coding in Typescript during all the day, learning Elixir in my spare time. </p>
-<p> 👯 Also looking to collaborate on Typescript and Node.js projects. </p>
+<p> 👩🏻‍💻 I'm a Software Developer, mainly focused on back-end. I have working experience and most practice with Typescript and Node.js. </p>
+<p> 🙋🏻‍♀️ Currently looking for a new job. </p>
+<p> 👯 Looking to collaborate on projects. </p>
+<p> 🌱 Learning Elixir in my spare time. </p>
+<p> 🤗 Always open to help. </p>
+<p> 💃🏻 Also I love to sing and dance. I'm a bellydancer and German folk dancer. </p>
 
 ## you can reach me at:
 <p align="center">
