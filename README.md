@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p> 👩🏻‍💻 I'm a Software Developer, mainly focused on back-end. I have working experience and most practice with Typescript and Node.js. </p>
+<p> 👩🏻‍💻 I'm a Software Developer, mainly focused on back-end. I have work experience and most practice with Typescript, Node.js and AWS services. </p>
 <p> 🙋🏻‍♀️ Currently looking for a new job. </p>
-<p> 👯 Looking to collaborate on projects. </p>
 <p> 🌱 Learning Elixir in my spare time. </p>
 <p> 🤗 Eternally open to teach and learn. </p>
 
