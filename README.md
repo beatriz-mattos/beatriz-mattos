@@ -1,4 +1,4 @@
-### Hallo Welt!
+### Γειά σου Κόσμε!
 <p> 👩🏻‍💻  I'm a Software Engineer, mainly focused on Back-end Engineering and Cloud Computing. I have work experience and most practice with Python, Typescript, Node.js and AWS/Azure cloud services. Check out <a href="https://drive.google.com/file/d/1YfvJye46ny0oJ93WPVExVLTScfbXUAAA/view?usp=sharing">my CV</a>.</p>
 <p> 🌱  Undergraduate student of Systems Analysis and Development at UMC. </p>
 <p> 🤓  I'm proficient in English and German (lvl B2 - intermediate); Spanish and Russian (lvl basic); studying Ancient Greek. </p>
