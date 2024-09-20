@@ -1,7 +1,7 @@
 ### Hello world!
 <p> 👩🏻‍💻  I'm a Software Developer, mainly focused on Back-end Development and Cloud Computing. I have work experience and most practice with Python, Typescript, Node.js and AWS/Azure cloud services. Check out <a href="https://drive.google.com/file/d/1YfvJye46ny0oJ93WPVExVLTScfbXUAAA/view?usp=sharing">my CV</a>.</p>
-<p> 🔭  Currently working as Back-end Developer at <a href="https://www.dione.solutions/pt-br/">Dione Solutions.</a> </p>
 <p> 🌱  Undergraduate student of Systems Analysis and Development at UMC. </p>
+<p> 🤹🏻‍♀️  I'm also a model and bellydancer, and appreciate all types of beauty and artistic expression. </p>
 <p> 🪄  Always open to teach and learn about technology and its witcheries. </p>
 
 ## You can reach me at:
