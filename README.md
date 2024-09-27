@@ -3,7 +3,7 @@
 <p> 🧠  Neurospicy person (Asperger's syndrome).</p>
 <p> 🌱  Undergraduate student of Systems Analysis and Development at UMC. </p>
 <p> 🤓  I'm proficient in English and German (B2 - intermediate lvl); Spanish and Russian (basic lvl); currently studying Ancient Greek at UNIPAMPA. </p>
-<p> 🤹🏻‍♀️  I'm also a model and bellydancer. I appreciate all sorts of beauty and artistic expression. </p>
+<p> 🤹🏻‍♀️  I'm also a model at Mega Model and bellydancer. I appreciate all sorts of beauty and artistic expression. </p>
 <p> 🪄  Always open to teach and learn about technology and its witcheries. </p>
 
 ## You can reach me at:
